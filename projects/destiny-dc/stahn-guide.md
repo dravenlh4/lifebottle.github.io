@@ -601,8 +601,7 @@ The Dark Wings are back again. This time, they appear in front of the Shiden fam
 | ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.25 Arriving in Moreau ~ No.28 Before arriving in Terazzi    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | None    |
 
-This event occurs when you go to the bridge at Shiden Port. Johnny is defending a boy who is being questioned by the residents. He will tell you a story about Michel Shiden, the founder of Aquaveil. In order to see this event, you must return to Shiden from Moreau through the underwater caves BEFORE you clear Moreau's Castle.
-
+This event occurs when you go to the bridge at Shiden Port. Johnny is defending a boy who is being questioned by the residents. He will tell you a story about Michel Shiden, the founder of Aquaveil. In order to see this event, you must return to Shiden with Johnny in your party right after he joins you. If you clear Moreau's Castle before that, you will miss this event.
 
 
 ![](stahn-guide/sub032_1.png)  
