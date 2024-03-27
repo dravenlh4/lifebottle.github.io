@@ -1967,7 +1967,7 @@ You will need to complete [**Sub-Quest 30 - Neat Sister**](https://lifebottle.gi
 
 |![](https://img.shields.io/badge/-Location-informational?style=for-the-badge&color=lightgray) | Shiden   |
 | :--------------------------------------------------------------------------------------- | :------------------ |
-| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.61 Reynolds returns ~    |
+| ![](https://img.shields.io/badge/-Timeline-informational?style=for-the-badge&color=lightgray) | No.68 Lens collecting starts ~    |
 | ![](https://img.shields.io/badge/-Reward-informational?style=for-the-badge&color=lightgray)   | Item [Absorb Material]    |
 
 You must have completed [**Side Quest #029 - Young Master 1**](https://lifebottle.github.io/#/./projects/destiny-dc/stahn-guide?id=side-quest-029-young-master-1) in order to trigger this event. In the continuation of this event, he will ask where Lion is, noticing his absence. 
